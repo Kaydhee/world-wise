@@ -20,7 +20,7 @@ export default function Homepage() {
 				</h2>
 
 				<Link
-					to='/app'
+					to='/login'
 					className='cta'>
 					Start tracking now
 				</Link>
